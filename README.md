@@ -13,9 +13,9 @@ Generated secret API Access Key for your Marketing BingAds account.
 ### [Register Your Application](https://docs.microsoft.com/en-us/bingads/guides/authentication-oauth?view=bingads-12#registerapplication)
 Before you can manage authentication for users of your Bing Ads application, you must register your application and get the corresponding client ID and client secret. Go to https://apps.dev.microsoft.com/ for that goal.
 
-After Application creation and saving of all your changes - take note of your **Application Id**. You will use it as the CLIENT_ID in the OAuth grant flow.
+After Application creation and saving of all your changes - take note of your **Application Id**. You will use it as the **CLIENT_ID** in the *OAuth* grant flow.
 
-Also take note of your Password and redirect URI if you registered a web application. The passsword will be used as the CLIENT_SECRET in the OAuth grant flow.
+Also take note of your **Password** and redirect URI if you registered a web application. The passsword will be used as the **CLIENT_SECRET** in the *OAuth* grant flow.
 
 For introductory code samples, technical guides, and reference content, see the [Bing Ads API Documentation](https://docs.microsoft.com/en-us/bingads/).
 
